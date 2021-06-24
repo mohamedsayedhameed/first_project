@@ -1,0 +1,42 @@
+form {
+    border: 1px solid #545454;
+    border-radius: 10px;
+    padding: 40px;
+    background-color: #e5eaea;
+}
+
+input[type=text] {
+    padding: 5px 20px;
+    width: 94%;
+    line-height: 16px;
+    margin: 10px 0;
+    border-radius: 10px
+}
+
+input[name=input] {
+    padding: 5px 20px;
+    width: 94%;
+    line-height: 16px;
+    margin: 10px 0;
+    border-radius: 10px
+}
+
+
+input[type=submit] {
+    padding: 5px 20px;
+    width: 100%;
+    line-height: 16px;
+    margin: 10px 0;
+    border-radius: 10px
+}
+
+section strong {
+    color: #4f60dc;
+    font-size: 20px;
+    font-weight: bold;
+}
+section .results {
+    color : rgb(37, 73, 128);
+    font-size: 20px;
+    padding: 10px;
+}

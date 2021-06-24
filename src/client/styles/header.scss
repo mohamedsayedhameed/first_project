@@ -1,0 +1,22 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 40px;
+}
+
+header .logo{
+    color: red;
+    padding: 20px;
+    font-size: 30px;
+    background: #f1f1f3;
+    border-radius: 10px;
+}
+
+
+header .nav{
+    color: blue;
+    padding: 20px;
+    font-size: 30px;
+    background: #f1f1f3;
+    border-radius: 10px;
+}
